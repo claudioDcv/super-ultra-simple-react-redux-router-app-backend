@@ -4,3 +4,8 @@ django-filter==1.1.0
 djangorestframework==3.7.7
 Markdown==2.6.10
 djangorestframework-jwt==1.11.0
+djangorestframework-filters==0.10.2
+# django-filter==1.0.4
+# djangorestframework-filters==0.10.1
+# django-filters
+# django-filters.mixin
